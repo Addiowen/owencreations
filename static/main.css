@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e7e7e7;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    float: right;
+    margin-right: 0.5em;
+}
+nav ul li a{
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background-color: #ebf5ff;
+}
+nav ul li a:hover {
+    background-color: black;
+    color: white;
+}
